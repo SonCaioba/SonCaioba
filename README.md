@@ -28,7 +28,7 @@
 </div>
 
 <br><br>
-
+<!--
 <div align="center">
 <img src="https://i.imgur.com/Bkrezif.gif" width="250px">
-</div>
+</div> -->
